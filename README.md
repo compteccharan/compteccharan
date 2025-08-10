@@ -84,7 +84,7 @@ I'm **Charan**, a passionate college student diving deep into the world of **AI/
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=compteccharan&limit=5&theme=tokyonight)
 
 ---
-
+## Monthly Profile Visitor Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=compteccharan&style=flat&color=blue)
 
 > "Code like there's no tomorrow. Debug like you have all day."
