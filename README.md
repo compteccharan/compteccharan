@@ -3,10 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="charan.exe boot screen. A retro terminal types: [ ok ] booting charan.exe v2026.10; [ ok ] loading coffee.dll; [ ok ] mounting python3 (intermediate, upgrading); [ ok ] scanning offers for scam signals... done; [warn] social.exe: loud in text, quiet irl; [err ] 418: still a student. Then big pixel letters: HI, I'M CHARAN, with a blinking cursor and a small pixel robot with a smiling screen face. Bottom line: the student who codes and builds stuff (without a fancy setup)." width="100%">
+  <img src="./assets/hero-light.svg" alt="Terminal running npx hello-charan. The command is typed, then a purple boxed card appears: a small block-character robot next to boot lines ([ ok ] booting charan.exe, [ ok ] loading coffee.dll, [ ok ] mounting python3 (intermediate), [warn] social.exe: loud in text, quiet irl, [err ] 418: still a student), big block letters reading hi, i'm charan, a short bio, what I'm building (TrustIntern), insider at Entire :), investing time in learning AI tools, open to internships, and my links. It ends: shutting down charan.exe... jk, still coding." width="100%">
 </picture>
 
-beep boop. i'm charan, a computer science student unit from Sriperumbudur, near Chennai, India. i learn by building things, shipping them in public and fixing them when they inevitably break. **open to internships** in software engineering and AI/ML, remote or in Chennai.
+try it yourself: `npx hello-charan`
+
+beep boop. i'm charan, a computer science student unit. i learn by building things, shipping them in public and fixing them when they inevitably break. **open to internships** in software engineering and AI/ML, remote or on-site.
 
 <details>
 <summary>secret: why noah?</summary>
@@ -21,31 +23,28 @@ online i also run as Noah Osmont (NoahCodesPython). people kept mispronouncing m
   <img src="./assets/divider-light.svg" alt="" width="100%">
 </picture>
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-spec-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-spec-light.svg">
-  <img src="./assets/h-spec-light.svg" alt="" width="100%">
-</picture>
-
-## Spec sheet
+  <img src="./assets/h-spec-light.svg" alt="Spec sheet" width="100%">
+</picture></h2>
 
 | Component | Value |
 | --- | --- |
-| Model | charan, B.E. CSE student |
-| Location | Sriperumbudur, near Chennai, India |
+| Model | Charan Nihaal R, B.E. CSE student |
 | Firmware | Python 3 (main), JavaScript |
 | Hardware | one HP Victus laptop that also runs my local AI models |
 | Fuel | coffee |
 | Known bugs | talks more in text than irl; extreme introvert, working on public speaking |
+| Currently | investing time in learning AI tools |
+| Community | Insider at Entire :) |
 | Long-term goal | build a real, friendly robot one day |
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-fun-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-fun-light.svg">
-  <img src="./assets/h-fun-light.svg" alt="" width="100%">
-</picture>
-
-## Fun facts
+  <img src="./assets/h-fun-light.svg" alt="Fun facts" width="100%">
+</picture></h2>
 
 - solves a Rubik's cube in under 2 minutes.
 - PC gamer: GTA, NFS and puzzle games like Viewfinder.
@@ -73,13 +72,11 @@ thanks for sharing your coffee. this robot now owes you one bug fix.
   <img src="./assets/divider-light.svg" alt="" width="100%">
 </picture>
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-proc-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-proc-light.svg">
-  <img src="./assets/h-proc-light.svg" alt="" width="100%">
-</picture>
-
-## Running processes
+  <img src="./assets/h-proc-light.svg" alt="Running processes" width="100%">
+</picture></h2>
 
 ### TrustIntern
 
@@ -99,26 +96,22 @@ Built with my teammates Sathya Sai, Dhanush P and Jayaraj R at Hack Day Chennai 
 - [CloudNine flight booking UI](https://github.com/compteccharan/cloudnine-flight-booking-ui): a responsive booking prototype in HTML, CSS and vanilla JavaScript.
 - [Ultimate Discord Bot](https://github.com/compteccharan/Ultimate-Discord-Bot) and [Discord hosting bot](https://github.com/compteccharan/discord-hosting-bot): the JavaScript Discord bots where it all started.
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-log-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-log-light.svg">
-  <img src="./assets/h-log-light.svg" alt="" width="100%">
-</picture>
-
-## Changelog
+  <img src="./assets/h-log-light.svg" alt="Changelog" width="100%">
+</picture></h2>
 
 - **Hacktoberfest 2026 Completionist.**
 - **Planetfall:** [my leaderboard duplicate-entry fix with a test suite](https://github.com/blackgirlbytes/planetfall-seed-signalkit/pull/19) was merged into this 3D browser game in June 2026.
 - **animated-welcome:** an npm package for Discord welcome GIFs.
 - **Entire Insider** in the Entire community.
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-crash-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-crash-light.svg">
-  <img src="./assets/h-crash-light.svg" alt="" width="100%">
-</picture>
-
-## Crash reports
+  <img src="./assets/h-crash-light.svg" alt="Crash reports" width="100%">
+</picture></h2>
 
 <details>
 <summary>cat crash_log.txt</summary>
@@ -134,13 +127,11 @@ Built with my teammates Sathya Sai, Dhanush P and Jayaraj R at Hack Day Chennai 
   <img src="./assets/divider-light.svg" alt="" width="100%">
 </picture>
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-skill-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-skill-light.svg">
-  <img src="./assets/h-skill-light.svg" alt="" width="100%">
-</picture>
-
-## Skill tree
+  <img src="./assets/h-skill-light.svg" alt="Skill tree" width="100%">
+</picture></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/skilltree-dark.svg">
@@ -162,13 +153,11 @@ Built with my teammates Sathya Sai, Dhanush P and Jayaraj R at Hack Day Chennai 
 
 </details>
 
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-tele-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-tele-light.svg">
-  <img src="./assets/h-tele-light.svg" alt="" width="100%">
-</picture>
-
-## Telemetry
+  <img src="./assets/h-tele-light.svg" alt="Telemetry" width="100%">
+</picture></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=compteccharan&show_icons=true&theme=tokyonight&hide_border=true">
@@ -181,24 +170,24 @@ Built with my teammates Sathya Sai, Dhanush P and Jayaraj R at Hack Day Chennai 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/compteccharan/compteccharan/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/compteccharan/compteccharan/output/github-snake.svg">
-  <img alt="A snake slithering across Charan's GitHub contribution graph and eating the contribution squares" src="https://raw.githubusercontent.com/compteccharan/compteccharan/output/github-snake.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
   <img src="./assets/divider-light.svg" alt="" width="100%">
 </picture>
 
+<p>say hi to marvee:</p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-ping-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-ping-light.svg">
-  <img src="./assets/h-ping-light.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/marvee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/marvee-light.svg">
+  <img src="./assets/marvee-light.svg" alt="marvee, my original pixel-art robot inspired by Marvin, Entire's mascot: a wide visor face with glowing cyan eyes, one round and one winking. Text: insider at Entire :) marvee says hi. beep." width="420">
 </picture>
 
-## Ping me
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-ping-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-ping-light.svg">
+  <img src="./assets/h-ping-light.svg" alt="Ping me" width="100%">
+</picture></h2>
 
 - [All my links at charancodes.com](https://charancodes.com)
 - [My writing on DEV](https://dev.to/noahosmont)
