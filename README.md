@@ -3,10 +3,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Terminal running npx hello-charan. The command is typed, then a purple boxed card appears: a small block-character robot next to boot lines ([ ok ] booting charan.exe, [ ok ] loading coffee.dll, [ ok ] mounting python3 (intermediate), [warn] social.exe: loud in text, quiet irl, [err ] 418: still a student), big block letters reading hi, i'm charan, a short bio, what I'm building (TrustIntern), insider at Entire :), investing time in learning AI tools, open to internships, and my links. It ends: shutting down charan.exe... jk, still coding." width="100%">
+  <img src="./assets/hero-light.svg" alt="charan.exe boot screen. A retro terminal types: [ ok ] booting charan.exe v2026.10; [ ok ] loading coffee.dll; [ ok ] mounting python3 (intermediate, upgrading); [ ok ] scanning offers for scam signals... done; [warn] social.exe: loud in text, quiet irl; [err ] 418: still a student. Then big pixel letters: HI, I'M CHARAN, with a blinking cursor and a small pixel robot with a smiling screen face. Bottom line: try it yourself: npx charan.exe." width="100%">
 </picture>
 
-try it yourself: `npx hello-charan`
 
 beep boop. i'm charan, a computer science student unit. i learn by building things, shipping them in public and fixing them when they inevitably break. **open to internships** in software engineering and AI/ML, remote or on-site.
 
